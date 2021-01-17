@@ -19,3 +19,21 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 - Preparar entorno para proyecto #kilian
 
 ---
+
+​
+**Fecha**:  17/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+- #kilian funcionando en docker (php 7.7), corregidos warnings y errores start_sesssion() y permisos de escritura
+
+**Próximos hitos**:
+
+- #kilian formateado de código
+- #kilian implementar lista de reservas ordenadas por timestamp
+- #kilian mostrar lista de espera en reservas de usuario
+- #smoke 2.0 lista de funcionalidades, prioridades
+
+---
