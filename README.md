@@ -37,3 +37,20 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 - #smoke 2.0 lista de funcionalidades, prioridades
 
 ---
+
+
+**Fecha**:  24/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+- #kilian lista de reservas ordenadas por timestamp, mostrar lista de espera en reservas de usuario
+- #kilian iniciada feature de  popup si el usuario tiene mensajes
+- aprendido: no se puede cambiar la fecha de una instancia de docker! Quizas mediante https://github.com/wolfcw/libfaketime
+
+**Próximos hitos**:
+
+- #smoke 2.0 lista de funcionalidades, prioridades
+
+---
