@@ -54,3 +54,16 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 - #smoke 2.0 lista de funcionalidades, prioridades
 
 ---
+
+**Fecha**:  07/02/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+
+- #smoke 2.0 Primera toma de contacto con Laravel. Pruebo Homestead y entiendo mejor la instalación en la propia máquina. Activo la autenticación. Primer intento de subirlo al hosting compartido (que era lo que pretendía probar), pero me temo que no es compatible. Pendiente de seguir investigando
+
+**Próximos hitos**:
+
+- #smoke 2.0 lista de funcionalidades, prioridades
+- Laravel: poner a funcionar en hosting actual
