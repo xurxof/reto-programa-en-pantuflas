@@ -82,3 +82,18 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 - #smoke 2.0 lista de funcionalidades, prioridades
 - Laravel: poner a funcionar en hosting actual
+
+---
+
+**Fecha**:  21/02/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+
+- #ebookrenamer: implementado el clasificador a partir del contenido de los ficheros, pero al final funciona mejor teneiendo en cuenta sólo el título.
+
+**Próximos hitos**:
+
+- ?
+
