@@ -97,3 +97,18 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 - ?
 
+---
+
+**Fecha**:  14/03/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+
+- #kilian: banner con aviso de mensajes (logré pone un popup pero no funcionaba como quería). Detectado otro fallo en limitación de reservas.
+
+**Próximos hitos**:
+
+- Coregir fallo en reservas, mejorar visualización pág. principal
+- Retomar Laravel
+
